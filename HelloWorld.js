@@ -4,4 +4,4 @@
 console.log("Hello World");
 
 // Cloned repo code addition
-console.log("Hello again, World!");
+console.log("Hello again, World");
